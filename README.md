@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitisharma&label=Profile%20views&color=0e75b6&style=flat" alt="amitisharma" /> </p>
 
+Data Analytics Skills:
+* Spreadsheets (Excel/Google Sheets)
+* SQL
+* Tableau
+* Power BI
+* Python
+* Data Analytics
 
-- 🔭 I’m currently working on **TripleTen BIA project.**
-
-- 👯 I’m looking to collaborate on **driving business with data with outsourcing projects.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AmitISharma](https://github.com/AmitISharma)
-
-- 💬 Ask me about **Spreadsheets, Power BI, Tableau, Python, SQL, and Data Analysis.**
 
 - 📫 How to reach me **amitsharma07@hotmail.com**
 
@@ -18,7 +18,7 @@
   
 - ⚡ Fun fact **I love watching anime**
 
-- Feel free to contact me on GitHub or LinkedIn
+- Feel free to contact me on GitHub or [LinkedIn](https://www.linkedin.com/in/amit-sharma-074301390/)
 
 - You can view my resume [here](https://docs.google.com/document/d/15ND8n0zm2emfErrEv6L5GtFb98K6e26P-RLK8VnFmos/edit?usp=drive_link). 
 
