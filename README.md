@@ -12,3 +12,4 @@ Currently, I am working with TripleTen on Business Intelligence projects to incr
 - ⚡ Fun fact: I love watching anime.
 - Goals for 2026- Landing a career as a Business Intelligence Analyst in data to help business succeed in growth and revenue. 
 -->
+## 
