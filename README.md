@@ -18,6 +18,10 @@
 
 - ⚡ Fun fact **I love watching anime**
 
+- Feel free to contact me on GitHub or LinkedIn
+
+- You can view my resume [here](https://docs.google.com/document/d/15ND8n0zm2emfErrEv6L5GtFb98K6e26P-RLK8VnFmos/edit?usp=drive_link). 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amit-sharma-ais/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-sharma-ais/" height="30" width="40" /></a>
