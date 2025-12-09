@@ -14,8 +14,8 @@
 
 - 📫 How to reach me **amitsharma07@hotmail.com**
 
-- 📄 Know about me check out my vision board [https://drive.google.com/file/d/1M6mMr6O7RcEIJSsq1ED7873TAs7bISK9/view?usp=drive_link](https://drive.google.com/file/d/1M6mMr6O7RcEIJSsq1ED7873TAs7bISK9/view?usp=drive_link)
-
+- 📄 Know about me check out my [vision board](https://drive.google.com/file/d/1M6mMr6O7RcEIJSsq1ED7873TAs7bISK9/view?usp=drive_link)
+- 
 - ⚡ Fun fact **I love watching anime**
 
 - Feel free to contact me on GitHub or LinkedIn
